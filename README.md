@@ -1,15 +1,5 @@
 
-<h1 align="center"> 💻 Sobre o desafio </h1> 
 
-<div align="center" > 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-</div>
-
-</br>
 
 Olá, aventureiros do código! 🚀 Preparem-se para uma jornada épica no universo da programação. Neste desafio, tive a honra de criar uma API REST, empunhando as poderosas ferramentas Spring Boot, JPA e o fiel escudeiro postgreSQL.
 
